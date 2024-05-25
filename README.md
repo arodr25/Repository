@@ -1,2 +1,2 @@
 # MC - SDIR | Version Control with Git and GitHub
-This is my first github repository created.
+Hello my name is Adrian Rodriguez and this is my first github repository ever created.
